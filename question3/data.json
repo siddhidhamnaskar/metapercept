@@ -1,15 +1,8 @@
-
-[
-    {
-        "Id":"1",
-        "Fname":"abc",
-        "Lname":"xyz"
+{
     
-    },
-    {
-        "Id":"2",
-        "Fname":"Siddhi",
-        "Lname":"Dhamnaskar"
-    
-    }
-]
+    "employees":[
+    {"firstName":"John", "lastName":"Doe"},
+    {"firstName":"Anna", "lastName":"Smith"},
+    {"firstName":"Peter", "lastName":"Jones"}
+  ]
+}

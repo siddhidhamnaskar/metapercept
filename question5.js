@@ -1,5 +1,5 @@
 
-var input="test01*gmail.com"
+var input=process.argv[2];
 
 
 validEmail();
@@ -22,7 +22,7 @@ function validEmail(){
       }
       else{
         console.log("Invalid Email Id");
-        break
+        break;
       }
     }
 
